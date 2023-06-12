@@ -1,0 +1,18 @@
+
+
+class NotificationsState {
+
+}
+
+
+class NotificationsData {
+
+}
+
+
+
+
+
+
+
+
